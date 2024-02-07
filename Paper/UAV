@@ -1,0 +1,2 @@
+Q-Learning based system for Path Planning with Unmanned Aerial Vehicles swarms in obstacle environments(24.01)
+2D grid map에서 static obstacles & 다양한 수의 UAV를 고려한 커버리지가 큰 path planning 
